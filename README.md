@@ -1,8 +1,7 @@
-# desafio-fattoria
-Código do sistema com CRUD de produtos solitiado 
+Um CRUD de produtos feito em Java 8  e JQuery.
 
 
-Abaixo o script da tabela MySQL usada no exercício.
+Abaixo o script da tabela MySQL usada.
 
 CREATE DATABASE entrevista;
 
