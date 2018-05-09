@@ -1,4 +1,5 @@
-Um CRUD de produtos feito em Java 8  e JQuery.
+A página feita em HTML e CSS puro e JQuery
+A API em Maven, Java8 com banco de dados em Hibernate integrado ao MySQL
 
 
 Abaixo o script da tabela MySQL usada.
